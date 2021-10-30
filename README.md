@@ -1,4 +1,4 @@
-# NLP_Webpage_Parser
+# Natural Language Processing for Marketing and E-Commerce Using spaCy
 
 Parse landing pages, scan for lexical elements, and implement them in your marketing and e-commerce initiatives.
 
